@@ -1,0 +1,53 @@
+C:\Users\Happy\Downloads\AspNetCore-SignInWithApple-Example-main\AspNetCore-SignInWithApple-Example-main\ScottBrady91.SignInWithApple.Example\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.csproj.AssemblyReference.cache
+C:\Users\Happy\Downloads\AspNetCore-SignInWithApple-Example-main\AspNetCore-SignInWithApple-Example-main\ScottBrady91.SignInWithApple.Example\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Happy\Downloads\AspNetCore-SignInWithApple-Example-main\AspNetCore-SignInWithApple-Example-main\ScottBrady91.SignInWithApple.Example\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.AssemblyInfoInputs.cache
+C:\Users\Happy\Downloads\AspNetCore-SignInWithApple-Example-main\AspNetCore-SignInWithApple-Example-main\ScottBrady91.SignInWithApple.Example\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.AssemblyInfo.cs
+C:\Users\Happy\Downloads\AspNetCore-SignInWithApple-Example-main\AspNetCore-SignInWithApple-Example-main\ScottBrady91.SignInWithApple.Example\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.csproj.CoreCompileInputs.cache
+C:\Users\Happy\Downloads\AspNetCore-SignInWithApple-Example-main\AspNetCore-SignInWithApple-Example-main\ScottBrady91.SignInWithApple.Example\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Happy\Downloads\AspNetCore-SignInWithApple-Example-main\AspNetCore-SignInWithApple-Example-main\ScottBrady91.SignInWithApple.Example\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.RazorAssemblyInfo.cache
+C:\Users\Happy\Downloads\AspNetCore-SignInWithApple-Example-main\AspNetCore-SignInWithApple-Example-main\ScottBrady91.SignInWithApple.Example\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.RazorAssemblyInfo.cs
+C:\Users\Happy\Downloads\AspNetCore-SignInWithApple-Example-main\AspNetCore-SignInWithApple-Example-main\ScottBrady91.SignInWithApple.Example\obj\Debug\net6.0\staticwebassets\msbuild.ScottBrady91.SignInWithApple.Example.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Happy\Downloads\AspNetCore-SignInWithApple-Example-main\AspNetCore-SignInWithApple-Example-main\ScottBrady91.SignInWithApple.Example\obj\Debug\net6.0\staticwebassets\msbuild.build.ScottBrady91.SignInWithApple.Example.props
+C:\Users\Happy\Downloads\AspNetCore-SignInWithApple-Example-main\AspNetCore-SignInWithApple-Example-main\ScottBrady91.SignInWithApple.Example\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ScottBrady91.SignInWithApple.Example.props
+C:\Users\Happy\Downloads\AspNetCore-SignInWithApple-Example-main\AspNetCore-SignInWithApple-Example-main\ScottBrady91.SignInWithApple.Example\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ScottBrady91.SignInWithApple.Example.props
+C:\Users\Happy\Downloads\AspNetCore-SignInWithApple-Example-main\AspNetCore-SignInWithApple-Example-main\ScottBrady91.SignInWithApple.Example\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Happy\Downloads\AspNetCore-SignInWithApple-Example-main\AspNetCore-SignInWithApple-Example-main\ScottBrady91.SignInWithApple.Example\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.dll
+C:\Users\Happy\Downloads\AspNetCore-SignInWithApple-Example-main\AspNetCore-SignInWithApple-Example-main\ScottBrady91.SignInWithApple.Example\obj\Debug\net6.0\refint\ScottBrady91.SignInWithApple.Example.dll
+C:\Users\Happy\Downloads\AspNetCore-SignInWithApple-Example-main\AspNetCore-SignInWithApple-Example-main\ScottBrady91.SignInWithApple.Example\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.pdb
+E:\apple login\apple login\apple login\bin\Debug\net6.0\ScottBrady91.SignInWithApple.Example.staticwebassets.runtime.json
+E:\apple login\apple login\apple login\bin\Debug\net6.0\ScottBrady91.SignInWithApple.Example.exe
+E:\apple login\apple login\apple login\bin\Debug\net6.0\ScottBrady91.SignInWithApple.Example.deps.json
+E:\apple login\apple login\apple login\bin\Debug\net6.0\ScottBrady91.SignInWithApple.Example.runtimeconfig.json
+E:\apple login\apple login\apple login\bin\Debug\net6.0\ScottBrady91.SignInWithApple.Example.dll
+E:\apple login\apple login\apple login\bin\Debug\net6.0\ScottBrady91.SignInWithApple.Example.pdb
+E:\apple login\apple login\apple login\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\apple login\apple login\apple login\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\apple login\apple login\apple login\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\apple login\apple login\apple login\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\apple login\apple login\apple login\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\apple login\apple login\apple login\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\apple login\apple login\apple login\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\apple login\apple login\apple login\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\apple login\apple login\apple login\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\apple login\apple login\apple login\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.csproj.AssemblyReference.cache
+E:\apple login\apple login\apple login\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.GeneratedMSBuildEditorConfig.editorconfig
+E:\apple login\apple login\apple login\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.AssemblyInfoInputs.cache
+E:\apple login\apple login\apple login\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.AssemblyInfo.cs
+E:\apple login\apple login\apple login\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.csproj.CoreCompileInputs.cache
+E:\apple login\apple login\apple login\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.MvcApplicationPartsAssemblyInfo.cache
+E:\apple login\apple login\apple login\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.RazorAssemblyInfo.cache
+E:\apple login\apple login\apple login\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.RazorAssemblyInfo.cs
+E:\apple login\apple login\apple login\obj\Debug\net6.0\staticwebassets\msbuild.ScottBrady91.SignInWithApple.Example.Microsoft.AspNetCore.StaticWebAssets.props
+E:\apple login\apple login\apple login\obj\Debug\net6.0\staticwebassets\msbuild.build.ScottBrady91.SignInWithApple.Example.props
+E:\apple login\apple login\apple login\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ScottBrady91.SignInWithApple.Example.props
+E:\apple login\apple login\apple login\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ScottBrady91.SignInWithApple.Example.props
+E:\apple login\apple login\apple login\obj\Debug\net6.0\staticwebassets.pack.json
+E:\apple login\apple login\apple login\obj\Debug\net6.0\staticwebassets.build.json
+E:\apple login\apple login\apple login\obj\Debug\net6.0\staticwebassets.development.json
+E:\apple login\apple login\apple login\obj\Debug\net6.0\scopedcss\bundle\ScottBrady91.SignInWithApple.Example.styles.css
+E:\apple login\apple login\apple login\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.csproj.CopyComplete
+E:\apple login\apple login\apple login\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.dll
+E:\apple login\apple login\apple login\obj\Debug\net6.0\refint\ScottBrady91.SignInWithApple.Example.dll
+E:\apple login\apple login\apple login\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.pdb
+E:\apple login\apple login\apple login\obj\Debug\net6.0\ScottBrady91.SignInWithApple.Example.genruntimeconfig.cache
+E:\apple login\apple login\apple login\obj\Debug\net6.0\ref\ScottBrady91.SignInWithApple.Example.dll

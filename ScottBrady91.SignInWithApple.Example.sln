@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScottBrady91.SignInWithApple.Example", "ScottBrady91.SignInWithApple.Example.csproj", "{0326C976-8174-45E1-81C8-D5F62140519F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0326C976-8174-45E1-81C8-D5F62140519F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0326C976-8174-45E1-81C8-D5F62140519F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0326C976-8174-45E1-81C8-D5F62140519F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0326C976-8174-45E1-81C8-D5F62140519F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88F133F7-95CE-4FEA-AD12-9E14BF590615}
+	EndGlobalSection
+EndGlobal
